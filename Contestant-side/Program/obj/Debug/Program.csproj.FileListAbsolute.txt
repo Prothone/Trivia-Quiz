@@ -1,0 +1,18 @@
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\obj\Debug\ResolveAssemblyReference.cache
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\bin\Debug\Program.exe
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\bin\Debug\Program.pdb
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\obj\Debug\Program.exe
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\obj\Debug\Program.pdb
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\bin\Debug\Program.exe.manifest
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\bin\Debug\Program.application
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\obj\Debug\Program.exe.manifest
+D:\KULIAH\4\Tekn. Kolaborasi PL\X\Contestant\Program\obj\Debug\Program.application
+D:\Trivia Quiz\Contestant-side\Program\obj\Debug\Program.exe
+D:\Trivia Quiz\Contestant-side\Program\obj\Debug\Program.pdb
+D:\Trivia Quiz\Contestant-side\Program\bin\Debug\Program.exe.manifest
+D:\Trivia Quiz\Contestant-side\Program\bin\Debug\Program.application
+D:\Trivia Quiz\Contestant-side\Program\bin\Debug\Program.exe
+D:\Trivia Quiz\Contestant-side\Program\bin\Debug\Program.pdb
+D:\Trivia Quiz\Contestant-side\Program\obj\Debug\ResolveAssemblyReference.cache
+D:\Trivia Quiz\Contestant-side\Program\obj\Debug\Program.exe.manifest
+D:\Trivia Quiz\Contestant-side\Program\obj\Debug\Program.application
